@@ -146,28 +146,28 @@
                                     <p><span style="color: #ffffff;">A -1314, Tower 3, NX ONE, TECH ZONE - 4, Amrapali Dream Valley, Greater Noida, Uttar Pradesh 201318</span></p>
                                 </div>
                                 <ul class="social-links">
-                                  <li>
+                                  <!-- <li>
   <a href="https://facebook.com" target="_blank">
       <i class="fab fa-facebook-f"></i>
   </a>
-</li>
+</li> -->
 <li>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://www.instagram.com/_fhdfgtech_/" target="_blank">
       <i class="fab fa-instagram"></i>
   </a>
 </li>
 <li>
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://x.com/fhdfgtech" target="_blank">
       <i class="fab fa-twitter"></i>
   </a>
 </li>
-<li>
+<!-- <li>
   <a href="https://behance.net" target="_blank">
       <i class="fab fa-behance"></i>
   </a>
-</li>
+</li> -->
 <li>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/company/future-hybrid-devlopment/about/?viewAsMember=true" target="_blank">
       <i class="fab fa-linkedin"></i>
   </a>
 </li>

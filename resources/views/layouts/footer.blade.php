@@ -111,9 +111,9 @@ Manohar Shukla
                     <p>&copy; 2025. All rights reserved by <a>FHDFG.</a></p>
                     <div class="social-share-inner">
                         <ul class="social-share">
-                            <li><a href="https://twitter.com/SweetThemes1" target="_blank" rel="noopener"><em class="fab fa-facebook-f"><strong>facebook</strong></em></a></li>
-                            <li><a href="https://www.instagram.com" target="_blank" rel="noopener"><em class="fab fa-twitter"><strong>instagram</strong></em></a></li>
-                            <li><a href="https://www.behance.net" target="_blank" rel="noopener"><em class="fab fa-behance"><strong>behance</strong></em></a></li>
+                            <li><a href="https://x.com/fhdfgtech" target="_blank" rel="noopener"><em class="fab fa-twitter"><strong>twitter</strong></em></a></li>
+                            <li><a href="https://www.instagram.com/_fhdfgtech_/" target="_blank" rel="noopener"><em class="fab fa-instagram"><strong>instagram</strong></em></a></li>
+                            <li><a href="https://www.linkedin.com/company/future-hybrid-devlopment/about/?viewAsMember=true" target="_blank" rel="noopener"><em class="fab fa-linkedin"><strong>linkedin</strong></em></a></li>
                         </ul>
                     </div>
                 </div>

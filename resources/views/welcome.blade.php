@@ -73,8 +73,10 @@
         <div class="header-social-share">
             <svg width="18" height="20.2"><use xlink:href="#share"></use></svg>
             <ul>
-                <li><a href="https://www.facebook.com/asytech" target="_blank" rel="noopener">facebook</a></li>
-                <li><a href="https://www.instagram.com/asytech.in" target="_blank" rel="noopener">instagram</a></li>
+                <li> <a href="https://www.instagram.com/_fhdfgtech_/" target="_blank">
+      <i></i>instagram</a></li>
+                <li><a href="https://www.linkedin.com/company/future-hybrid-devlopment/about/?viewAsMember=true" target="_blank">
+      <i></i>linkedin</a></li>
             </ul>
         </div>
         <a href="#about-us" class="hero__scroll"><svg width="15" height="22.1"><use xlink:href="#scroll"></use></svg></a>
