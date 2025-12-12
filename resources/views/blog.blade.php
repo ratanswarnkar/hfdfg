@@ -16,7 +16,7 @@
                     <article class="single-post blogloop-v2">
                         <div class="blog_custom">
                             <div class="post-thumbnail">
-                                <a href="https://asytech.in/post/break-language-barriers-real-time-speech-translation-for-global-communication">
+                                <a href="/blogs/blog1">
 <img class="blog_post_image img-fluid lazy" width="800" height="550" src="/public/img/loading-blog.gif" data-src="/public/images/media/blog1.jpg" alt="Break Language Barriers: Real‑Time Speech Translation for Global Communication">
 </a>
                             </div>
@@ -28,7 +28,7 @@
                                         <img alt="" src="/public/img/loading-blog.gif" data-src="/public/images/media/17256929811713511196asytech_logo-removebg-preview-2.png" class="avatar img-fluid lazy" height="120" width="120">
                                     </div>
                                     <h2 class="post-name">
-                                        <a title="Break Language Barriers: Real‑Time Speech Translation for Global Communication" href="https://asytech.in/post/break-language-barriers-real-time-speech-translation-for-global-communication">
+                                        <a title="Break Language Barriers: Real‑Time Speech Translation for Global Communication" href="/blogs/blog1">
 Break Language Barriers: Real‑Time Speech Translation for Global Communication                   
 </a>
                                     </h2>
@@ -45,7 +45,7 @@ Break Language Barriers: Real‑Time Speech Translation for Global Communication
                     <article class="single-post blogloop-v2">
                         <div class="blog_custom">
                             <div class="post-thumbnail">
-                                <a href="https://asytech.in/post/digital-twins-and-business-intelligence-the-next-big-thing">
+                                <a href="/blogs/blog2">
 <img class="blog_post_image img-fluid lazy" width="800" height="550" src="/public/img/loading-blog.gif" data-src="/public/images/media/blog2.png" alt="Digital Twins and Business Intelligence: The Next Big Thing?">
 </a>
                             </div>
@@ -57,7 +57,7 @@ Break Language Barriers: Real‑Time Speech Translation for Global Communication
                                         <img alt="" src="/public/img/loading-blog.gif" data-src="/public/images/media/17256929811713511196asytech_logo-removebg-preview-2.png" class="avatar img-fluid lazy" height="120" width="120">
                                     </div>
                                     <h2 class="post-name">
-                                        <a title="Digital Twins and Business Intelligence: The Next Big Thing?" href="https://asytech.in/post/digital-twins-and-business-intelligence-the-next-big-thing">
+                                        <a title="Digital Twins and Business Intelligence: The Next Big Thing?" href="/blogs/blog2">
 Digital Twins and Business Intelligence: The Next Big Thing?                   
 </a>
                                     </h2>
@@ -75,7 +75,7 @@ Digital Twins and Business Intelligence: The Next Big Thing?
                     <article class="single-post blogloop-v2">
                         <div class="blog_custom">
                             <div class="post-thumbnail">
-                                <a href="https://asytech.in/post/github-spark-where-open-source-meets-intelligent-automation">
+                                <a href="/blogs/blog3">
 <img class="blog_post_image img-fluid lazy" width="800" height="550" src="/public/img/loading-blog.gif" data-src="/public/images/media/blog3.png" alt="GitHub Spark: Where Open Source Meets Intelligent Automation">
 </a>
                             </div>
@@ -87,7 +87,7 @@ Digital Twins and Business Intelligence: The Next Big Thing?
                                         <img alt="" src="/public/img/loading-blog.gif" data-src="/public/images/media/17256929811713511196asytech_logo-removebg-preview-2.png" class="avatar img-fluid lazy" height="120" width="120">
                                     </div>
                                     <h2 class="post-name">
-                                        <a title="GitHub Spark: Where Open Source Meets Intelligent Automation" href="https://asytech.in/post/github-spark-where-open-source-meets-intelligent-automation">
+                                        <a title="GitHub Spark: Where Open Source Meets Intelligent Automation" href="/blogs/blog3">
 GitHub Spark: Where Open Source Meets Intelligent Automation                   
 </a>
                                     </h2>
