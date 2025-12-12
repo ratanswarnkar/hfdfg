@@ -17,13 +17,13 @@
 
             <!-- Director Bio -->
             <div class="col-lg-8">
-                <h2 class="director-name">Aadi Sharma</h2>
-                <h4 class="director-position">Founder & Director, AsyTech</h4>
+                <h2 class="director-name">Rishabh Tiwari</h2>
+                <h4 class="director-position">Founder & Director, FHDFG Technologies</h4>
 
                 <span class="venor-animate-border"></span>
 
                 <p class="director-bio">
-                    With a strong vision for innovation and quality, Aadi founded AsyTech to deliver modern,
+                    With a strong vision for innovation and quality, Rishabh founded FHDFG Technologies to deliver modern,
                     scalable and result-driven technology solutions. Under his leadership, the company has grown
                     into a trusted partner for businesses seeking reliable digital transformation.
                 </p>
