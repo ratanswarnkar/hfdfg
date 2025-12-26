@@ -11,7 +11,7 @@
             <!-- Director Image -->
             <div class="col-lg-4 text-center mb-4">
                 <div class="director-img-wrapper">
-                    <img src="/public/images/director.jpg" alt="Director Image" class="director-img">
+                    <img src="/public/images/media/director.png" alt="Director Image" class="director-img">
                 </div>
             </div>
 
