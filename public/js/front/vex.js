@@ -554,7 +554,7 @@ Author: Sweet Themes
     }
 
     var images = new Array(),
-        query = $q('img.lazy'),
+        query = $q('img.lazy, img.lazy-img, img[data-src]'),
         processScroll = function() {
             for (var i = 0; i < images.length; i++) {
                 if (elementInViewport(images[i])) {

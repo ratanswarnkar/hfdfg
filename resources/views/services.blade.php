@@ -26,8 +26,8 @@
                             <div class="project-thumbnail">
                                 <a href="/services/service1" title="">
                                     <img class="lazy-img" width="400" height="250"
-                                         src="/public/img/loading-blog.gif"
-                                         data-src="/public/images/media/1751018839cloudbyte-solutions-com-1024x768desktop-ce15a6.png">
+                                         src="{{ asset('img/loading-blog.gif') }}"
+                                         data-src="{{ \App\Support\MediaUrl::resolve('1751018839cloudbyte-solutions-com-1024x768desktop-ce15a6.png') }}">
                                 </a>
                             </div>
                             <h4 class="entry-details-title">
@@ -45,8 +45,8 @@
                             <div class="project-thumbnail">
                                 <a href="/services/service2" title="">
                                     <img class="lazy-img" width="400" height="250"
-                                         src="/public/img/loading-blog.gif"
-                                         data-src="/public/images/media/16483041541648287778oh__img69-819x1024.jpg">
+                                         src="{{ asset('img/loading-blog.gif') }}"
+                                         data-src="{{ \App\Support\MediaUrl::resolve('16483041541648287778oh__img69-819x1024.jpg') }}">
                                 </a>
                             </div>
                             <h4 class="entry-details-title">
@@ -64,8 +64,8 @@
                             <div class="project-thumbnail">
                                 <a href="/services/service3" title="">
                                     <img class="lazy-img" width="400" height="250"
-                                         src="/public/img/loading-blog.gif"
-                                         data-src="/public/images/media/1750926287gabriel-benois-qnWPjzewewA-unsplash (1).jpg">
+                                         src="{{ asset('img/loading-blog.gif') }}"
+                                         data-src="{{ \App\Support\MediaUrl::resolve('1750926287gabriel-benois-qnWPjzewewA-unsplash (1).jpg') }}">
                                 </a>
                             </div>
                             <h4 class="entry-details-title">
@@ -83,8 +83,8 @@
                             <div class="project-thumbnail">
                                 <a href="/services/service4" title="">
                                     <img class="lazy-img" width="400" height="250"
-                                         src="/public/img/loading-blog.gif"
-                                         data-src="/public/images/media/1750925876microsoft-365-oUbzU87d1Gc-unsplash (1).jpg">
+                                         src="{{ asset('img/loading-blog.gif') }}"
+                                         data-src="{{ \App\Support\MediaUrl::resolve('1750925876microsoft-365-oUbzU87d1Gc-unsplash (1).jpg') }}">
                                 </a>
                             </div>
                             <h4 class="entry-details-title">
@@ -102,8 +102,8 @@
                             <div class="project-thumbnail">
                                 <a href="/services/service5" title="">
                                     <img class="lazy-img" width="400" height="250"
-                                         src="/public/img/loading-blog.gif"
-                                         data-src="/public/images/media/1750931279obi-uUNtBBG9pcY-unsplash (1).jpg">
+                                         src="{{ asset('img/loading-blog.gif') }}"
+                                         data-src="{{ \App\Support\MediaUrl::resolve('1750931279obi-uUNtBBG9pcY-unsplash (1).jpg') }}">
                                 </a>
                             </div>
                             <h4 class="entry-details-title">
@@ -121,8 +121,8 @@
                             <div class="project-thumbnail">
                                 <a href="/services/service6" title="">
                                     <img class="lazy-img" width="400" height="250"
-                                         src="/public/img/loading-blog.gif"
-                                         data-src="/public/images/media/1750931198nathan-dumlao-kLmt1mpGJVg-unsplash (1).jpg">
+                                         src="{{ asset('img/loading-blog.gif') }}"
+                                         data-src="{{ \App\Support\MediaUrl::resolve('1750931198nathan-dumlao-kLmt1mpGJVg-unsplash (1).jpg') }}">
                                 </a>
                             </div>
                             <h4 class="entry-details-title">
@@ -155,3 +155,4 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 @include('layouts.footer')
+

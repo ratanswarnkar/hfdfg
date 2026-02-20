@@ -142,8 +142,8 @@
                 <img class="img-fluid thumparallax-down"
                      width="900"
                      height="938"
-                     src="/public/img/loading-blog.gif"
-                     data-src="/public/images/media/1751018839cloudbyte-solutions-com-1024x768desktop-ce15a6.png"
+                     src="{{ asset('img/loading-blog.gif') }}"
+                     data-src="{{ \App\Support\MediaUrl::resolve('1751018839cloudbyte-solutions-com-1024x768desktop-ce15a6.png') }}"
                      alt="Smart Hospital Management System Banner">
             </div>
 
@@ -152,3 +152,4 @@
 </div>
 
 @include('layouts.footer')
+

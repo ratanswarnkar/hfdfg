@@ -5,7 +5,7 @@
     <!-- Page Title -->
     <title> FHDFG: Expert Web Development, Android Apps, Custom Software </title>
     <!-- Meta Data -->
-    <meta name="csrf-token" content="qZaPrNJpoM76oGJqtTey4pgAgLQ0e35nxIys9wD3">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,7 +33,7 @@
     <meta property="og:site_name" content="AsyTech" />
     <meta property="og:description" content=" AsyTech transforms ideas into digital realities. From website development to Android apps and custom software solutions, we empower businesses with technology that drives growth. " />
     <!-- Favicon -->
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-Du7eX..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!-- Root icon -->
     <link rel="icon" href="https://asytech.in/favicon.ico" type="image/x-icon">
@@ -61,11 +61,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&amp;display=swap" rel="stylesheet">
     <!-- Styles -->
-    <link href="https://asytech.in/css/front/bootstrap.min.css" type="text/css" rel="stylesheet">
-    <link href="https://asytech.in/css/libs/fontawesome.min.css" type="text/css" rel="stylesheet">
-    <link href="https://asytech.in/css/front/owl.carousel.min.css" type="text/css" rel="stylesheet">
-    <link href="https://asytech.in/css/front/vex.css" type="text/css" rel="stylesheet">
-    <link href="https://asytech.in/css/front/magnific.min.css" type="text/css" rel="stylesheet">
+    <link href="{{ asset('css/front/bootstrap.min.css') }}" type="text/css" rel="stylesheet">
+    <link href="{{ asset('css/libs/fontawesome.min.css') }}" type="text/css" rel="stylesheet">
+    <link href="{{ asset('css/front/owl.carousel.min.css') }}" type="text/css" rel="stylesheet">
+    <link href="{{ asset('css/front/vex.css') }}" type="text/css" rel="stylesheet">
+    <link href="{{ asset('css/front/magnific.min.css') }}" type="text/css" rel="stylesheet">
     <!-- Inline Styles -->
     <!-- dynamic style -->
     <style>
@@ -100,14 +100,14 @@
             </div>
             <div class="header__logo">
                 <a href="/" title="AsyTech - Custom Website, App &amp; Software Development">
-<img width="105" height="22" class="img-fluid logo-front" src="/public/images/media/1751014853asytech logo.png" alt="logo">
+<img width="105" height="22" class="img-fluid logo-front" src="{{ asset('public/images/media/1751014853asytech logo.png') }}" alt="logo">
 </a>
             </div>
             <div class="header__menu__venor">
                 <ul class="header__nav">
                     <li class="header__nav-item"> <a title="Home" class="header__nav-link" href="/">Home</a> </li>
                     <li class="header__nav-item"> <a title="About us" class="header__nav-link" href="/about">About us</a> </li>
-                    <li class="header__nav-item"> <a title="Portfolio" class="header__nav-link" href="/portfolio">Portfolio</a> </li>
+                    <!-- <li class="header__nav-item"> <a title="Portfolio" class="header__nav-link" href="/portfolio">Portfolio</a> </li> -->
                     <li class="header__nav-item"> <a title="Services" class="header__nav-link" href="/services">Services</a> </li>
                     <li class="header__nav-item"> <a title="Blogs" class="header__nav-link" href="/blog">Blogs</a> </li>
                     <li class="header__nav-item"> <a title="Contact" class="header__nav-link" href="/contact">Contact</a> </li>

@@ -154,7 +154,7 @@
                 <div class="card-parent">
                     <div class="image-wrapper to-bottom">
                         <div class="gallery">
-                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="/public/img/loading-blog.gif" data-src="/public/images/media/1751018839cloudbyte-solutions-com-1024x768desktop-ce15a6.png" alt="Creating responsive and dynamic websites.">
+                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="{{ asset('img/loading-blog.gif') }}" data-src="{{ \App\Support\MediaUrl::resolve('1751018839cloudbyte-solutions-com-1024x768desktop-ce15a6.png') }}" alt="Creating responsive and dynamic websites.">
                         </div>
                     </div>
                     <div class="card featured to-top-left">
@@ -170,7 +170,7 @@
                 <div class="card-parent">
                     <div class="image-wrapper to-bottom">
                         <div class="gallery">
-                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="/public/img/loading-blog.gif" data-src="/public/images/media/16483041541648287778oh__img69-819x1024.jpg" alt="Innovative mobile applications.">
+                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="{{ asset('img/loading-blog.gif') }}" data-src="{{ \App\Support\MediaUrl::resolve('16483041541648287778oh__img69-819x1024.jpg') }}" alt="Innovative mobile applications.">
                         </div>
                     </div>
                     <div class="card featured to-top-left">
@@ -186,7 +186,7 @@
                 <div class="card-parent">
                     <div class="image-wrapper to-bottom">
                         <div class="gallery">
-                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="/public/img/loading-blog.gif" data-src="/public/images/media/1750926287gabriel-benois-qnWPjzewewA-unsplash (1).jpg" alt="Integrated ERP Solutions for Business Excellence">
+                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="{{ asset('img/loading-blog.gif') }}" data-src="{{ \App\Support\MediaUrl::resolve('1750926287gabriel-benois-qnWPjzewewA-unsplash (1).jpg') }}" alt="Integrated ERP Solutions for Business Excellence">
                         </div>
                     </div>
                     <div class="card featured to-top-left">
@@ -202,7 +202,7 @@
                 <div class="card-parent">
                     <div class="image-wrapper to-bottom">
                         <div class="gallery">
-                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="/public/img/loading-blog.gif" data-src="/public/images/media/1750925876microsoft-365-oUbzU87d1Gc-unsplash (1).jpg" alt="Modern HRMS for Streamlined Workforce Management">
+                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="{{ asset('img/loading-blog.gif') }}" data-src="{{ \App\Support\MediaUrl::resolve('1750925876microsoft-365-oUbzU87d1Gc-unsplash (1).jpg') }}" alt="Modern HRMS for Streamlined Workforce Management">
                         </div>
                     </div>
                     <div class="card featured to-top-left">
@@ -218,7 +218,7 @@
                 <div class="card-parent">
                     <div class="image-wrapper to-bottom">
                         <div class="gallery">
-                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="/public/img/loading-blog.gif" data-src="/public/images/media/1750931279obi-uUNtBBG9pcY-unsplash (1).jpg" alt="Smart CRM Solutions for Seamless Customer Management">
+                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="{{ asset('img/loading-blog.gif') }}" data-src="{{ \App\Support\MediaUrl::resolve('1750931279obi-uUNtBBG9pcY-unsplash (1).jpg') }}" alt="Smart CRM Solutions for Seamless Customer Management">
                         </div>
                     </div>
                     <div class="card featured to-top-left">
@@ -234,7 +234,7 @@
                 <div class="card-parent">
                     <div class="image-wrapper to-bottom">
                         <div class="gallery">
-                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="/public/img/loading-blog.gif" data-src="/public/images/media/1750931198nathan-dumlao-kLmt1mpGJVg-unsplash (1).jpg" alt="Smart Hospital Management System | Digital Healthcare Solutions">
+                            <img width="400" height="400" class="lazy img-fluid thumparallax-down" src="{{ asset('img/loading-blog.gif') }}" data-src="{{ \App\Support\MediaUrl::resolve('1750931198nathan-dumlao-kLmt1mpGJVg-unsplash (1).jpg') }}" alt="Smart Hospital Management System | Digital Healthcare Solutions">
                         </div>
                     </div>
                     <div class="card featured to-top-left">
@@ -273,7 +273,7 @@
             </div>
         </div>
     </div>
-    <div class="portfolio-section">
+    <!-- <div class="portfolio-section">
         <div class="container">
             <h3>Showcasing Our <span>Top Projects</span></h3>
             <div class="portfolio-slider owl-carousel">
@@ -351,7 +351,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
  <div class="testimonial-section">
     <div class="testimonial-section-slider owl-carousel">
 
@@ -467,7 +467,7 @@
                         <div class="after-bg">
                             <a href="/blogs/blog1" title="Break Language Barriers: Real‑Time Speech Translation for Global Communication">
                                 <div class="featured_image_blog">
-                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="/public/img/loading-blog.gif" data-src="/public/images/media/blog1.jpg" alt="Break Language Barriers: Real‑Time Speech Translation for Global Communication">
+                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="{{ asset('img/loading-blog.gif') }}" data-src="/public/images/media/blog1.jpg" alt="Break Language Barriers: Real‑Time Speech Translation for Global Communication">
                                     <div class="flex-icon">
                                         <div class="flex-icon-inside">
                                             <i class="fas fa-link"></i>
@@ -499,7 +499,7 @@
                         <div class="after-bg">
                             <a href="/blogs/blog2" title="Digital Twins and Business Intelligence: The Next Big Thing?">
                                 <div class="featured_image_blog">
-                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="/public/img/loading-blog.gif" data-src="/public/images/media/blog2.png" alt="Digital Twins and Business Intelligence: The Next Big Thing?">
+                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="{{ asset('img/loading-blog.gif') }}" data-src="/public/images/media/blog2.png" alt="Digital Twins and Business Intelligence: The Next Big Thing?">
                                     <div class="flex-icon">
                                         <div class="flex-icon-inside">
                                             <i class="fas fa-link"></i>
@@ -532,7 +532,7 @@
                         <div class="after-bg">
                             <a href="/blogs/blog3" title="GitHub Spark: Where Open Source Meets Intelligent Automation">
                                 <div class="featured_image_blog">
-                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="/public/img/loading-blog.gif" data-src="/public/images/media/blog3.png" alt="GitHub Spark: Where Open Source Meets Intelligent Automation">
+                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="{{ asset('img/loading-blog.gif') }}" data-src="/public/images/media/blog3.png" alt="GitHub Spark: Where Open Source Meets Intelligent Automation">
                                     <div class="flex-icon">
                                         <div class="flex-icon-inside">
                                             <i class="fas fa-link"></i>
@@ -564,7 +564,7 @@
                         <div class="after-bg">
                             <a href="https://asytech.in/post/perplexity-and-airtel-offer-for-12month-free-subscription" title="Perplexity and airtel offer for 12 month free subscription">
                                 <div class="featured_image_blog">
-                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="/public/img/loading-blog.gif" data-src="/public/images/media/1753156543Perplexity and airtel offer for 12 month free subscription-ASYTECH.png" alt="Perplexity and airtel offer for 12 month free subscription">
+                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="{{ asset('img/loading-blog.gif') }}" data-src="/public/images/media/1753156543Perplexity and airtel offer for 12 month free subscription-ASYTECH.png" alt="Perplexity and airtel offer for 12 month free subscription">
                                     <div class="flex-icon">
                                         <div class="flex-icon-inside">
                                             <i class="fas fa-link"></i>
@@ -596,7 +596,7 @@
                         <div class="after-bg">
                             <a href="https://asytech.in/post/how-to-choose-between-crm-hrms-erp-for-your-growin" title="How to Choose Between CRM, HRMS &amp; ERP for Your Growing Business">
                                 <div class="featured_image_blog">
-                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="/public/img/loading-blog.gif" data-src="/public/images/media/1753083220How to Choose Between CRM, HRMS &amp; ERP for Your Growing Business-ASYTECH.png" alt="How to Choose Between CRM, HRMS &amp; ERP for Your Growing Business">
+                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="{{ asset('img/loading-blog.gif') }}" data-src="/public/images/media/1753083220How to Choose Between CRM, HRMS &amp; ERP for Your Growing Business-ASYTECH.png" alt="How to Choose Between CRM, HRMS &amp; ERP for Your Growing Business">
                                     <div class="flex-icon">
                                         <div class="flex-icon-inside">
                                             <i class="fas fa-link"></i>
@@ -628,7 +628,7 @@
                         <div class="after-bg">
                             <a href="https://asytech.in/post/how-chatgpt-agents-work-under-the-hood-of-ai-autonomy" title="How ChatGPT Agents Work: Under the Hood of AI Autonomy">
                                 <div class="featured_image_blog">
-                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="/public/img/loading-blog.gif" data-src="/public/images/media/1752813502How ChatGPT Agents Work Under the Hood of AI Autonomy - ASYTECH.png" alt="How ChatGPT Agents Work: Under the Hood of AI Autonomy">
+                                    <img class="lazy blog_post_image img-fluid" width="370" height="380" src="{{ asset('img/loading-blog.gif') }}" data-src="/public/images/media/1752813502How ChatGPT Agents Work Under the Hood of AI Autonomy - ASYTECH.png" alt="How ChatGPT Agents Work: Under the Hood of AI Autonomy">
                                     <div class="flex-icon">
                                         <div class="flex-icon-inside">
                                             <i class="fas fa-link"></i>
